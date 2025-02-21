@@ -1,1 +1,1 @@
-# -Asteroid-Hazard-Classification
+# Asteroid-Hazard-Classification
